@@ -19,7 +19,7 @@
 * `push`，`pull`，`clone`操作更像将远程和本地仓库相互同步
 
 附上之前忘记写的多行代码
-```
+```html
 <!DOCTYPE html>
 <html>
     <head>
