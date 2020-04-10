@@ -17,3 +17,17 @@
 容易忽视的问题：
 * 对文件的所有操作都需要标记后提交才会生效（包括文件的删除和重命名等）如果没有对所有的操作进行提交，便无法push，需要注意
 * `push`，`pull`，`clone`操作更像将远程和本地仓库相互同步
+
+附上之前忘记写的多行代码
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charste="UTF-8">
+        <title>test</title>
+    </head>
+    <body>
+        <h1>我是一级标题</h1>
+    </body>
+</html>
+```
